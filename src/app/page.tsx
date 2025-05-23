@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <main className="grid place-content-center min-h-screen gap-6 text-center">
       <h1 className="text-5xl font-bold tracking-tight">
-        Kjølebil-spesialisten
+        Yasmina ASS-agouagh
       </h1>
       <p className="prose">🚚❄️ Komplett leverandør av kjøle- og frysebiler.</p>
       <a
